@@ -1,0 +1,12 @@
+{
+  "clearMocks": true,
+  "moduleFileExtensions": [
+    "js"
+  ],
+  "testMatch": [
+    "**/*.test.js"
+  ],
+  "transform": {},
+  "verbose": true,
+  "testEnvironment": "node"
+}
